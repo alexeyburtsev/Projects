@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ### Lunguages and Tools I'm working with:
--Python
--SQL
+-Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ...)
 -Scikit-learn
--NLTK
 -TensorFlow
+-PyTorch 
+-NLTK
+-spaCy
 
 ### 
 | Project | Description |
