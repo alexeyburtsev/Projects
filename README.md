@@ -16,7 +16,7 @@
 | Sentiment classification | This document represents a problem of ***sentiment classification*** for film rewiews on IMDb. The classification is supposed to be binary (positive and negative classes). The data was loaded, preprocessed, vectorized using ***TF_IDF*** method and then tokinized with ***stemming*** and ***lemmatization*** aproaches separtely. Thereafter ***SGDClassifier, LinearSVC and NaiveBayes*** algorithms were implemented. To evaluate the results confusion matrix and ROC curves were plotted. Hyperparameters were tuned to improve the predictive power of models.|
 | Monitoring System | Problem Setup:
 - The Client has thousands of events produced by his monitoring system every day. Events are parsed and represented as strings.
-- The Client wants to have a daily report with events summary. Tickets data is for 1 day is provided in the form of a csv file. There is 1 column: "ticket", without an index.
+- The Client wants to have a daily report with events summary. Tickets data is for 1 day is provided in the form of a csv file. There is 1 column: "ticket", without an index. |
  
 
 | Web scrapping | This 
