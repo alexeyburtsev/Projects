@@ -3,7 +3,7 @@
 ### Lunguages and Tools I'm working with:
 -Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ...)  
 -Scikit-learn  
--TensorFlow 
+-TensorFlow  
 -Keras  
 -PyTorch   
 -NLTK  
