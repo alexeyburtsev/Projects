@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=data:image/#3776AB;base64,<BASE64_DATA>)
-
-
 ### Technologies & Tools
 -Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ...)  
 -Scikit-learn  
