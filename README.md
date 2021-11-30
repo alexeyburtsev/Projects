@@ -1,4 +1,3 @@
-https://www.codewars.com/users/ezzy_1/badges/large
 ### Hi there 👋
 
 ### Technologies & Tools
