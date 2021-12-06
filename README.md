@@ -14,6 +14,7 @@
 <img alt="Keras" src = "https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=for-the-badge" />
 <img alt="PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge" />
 <img alt="Git" src = "https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
+<img alt="PostgreSQL" src = "https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
