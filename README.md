@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://www.codewars.com/users/ezzy_1/badges/large)
+
 ### Technologies & Tools
 -Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ...)  
 -Scikit-learn  
