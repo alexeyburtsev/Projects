@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://www.codewars.com/users/ezzy_1/badges/large)
+[![](https://www.codewars.com/users/ezzy_1/badges/large)](https://www.codewars.com/users/ezzy_1)
 
 ### Technologies & Tools
 -Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, ...)  
