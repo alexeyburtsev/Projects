@@ -3,7 +3,7 @@
 ---
 ### <p align="center"> My Activities </p>
 [![](https://www.codewars.com/users/ezzy_1/badges/large)](https://www.codewars.com/users/ezzy_1)
-
+[![LeetCode user ezzy_1](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fezzy_1&logo=leetcode&logoColor=yellow)](https://leetcode.com/ezzy_1/)
 ---
 
 ### <p align="center"> Technologies & Tools I am working with   </p>
