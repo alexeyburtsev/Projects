@@ -1,0 +1,59 @@
+CREATE OR REPLACE PROCEDURE bl_cl.bl_dm_sequences()
+LANGUAGE plpgsql
+AS $$
+BEGIN
+
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_promotions
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_employees
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE; 
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_warehouses
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_deliveries
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_products
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_customers
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+		
+		CREATE SEQUENCE IF NOT EXISTS bl_dm.seq_dim_payment_types
+		START WITH 1 
+		INCREMENT BY 1 
+		MINVALUE 1 
+		NO MAXVALUE;
+
+END; $$; 
+
+
+
+
+
+
+
+
+
+
+
