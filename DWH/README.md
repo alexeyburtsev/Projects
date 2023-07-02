@@ -6,3 +6,9 @@ Data loading into the DWH is performed using full load (with loading of the whol
 The project is developed with PostgreSQL using mostly PL/pgSQL to create, link and optimize all the necessary objects and processes.    
 
 The created Data Warehouse serves for the purposes of business intelligence (BI). The raw business operations data can be transformed to the meaningful analytical reports and support the management decision making.
+
+3NF layer:
+![3NF](https://github.com/alexeyburtsev/Projects/assets/77303244/a1c20efe-0f45-4fea-9589-5cc7129016d2)
+
+Dimentional layer:
+![STAR](https://github.com/alexeyburtsev/Projects/assets/77303244/57b6c531-a528-447b-8e96-181c8b563688)
